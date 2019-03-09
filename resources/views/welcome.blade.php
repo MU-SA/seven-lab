@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Mosaic - Free Bootstrap 4 Template by Colorlib</title>
+    <title>7</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
-
+    <link href="/imgs/sevenpdf.png" rel="icon"/>
     <link rel="stylesheet" href="/css/open-iconic-bootstrap.min.css">
     <link rel="stylesheet" href="/css/animate.css">
 
@@ -31,7 +31,8 @@
 <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
         <a class="navbar-brand" href="index.html">Seven L.</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
+                aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="oi oi-menu"></span> Menu
         </button>
 
@@ -54,14 +55,19 @@
     <div class="slider-item js-fullheight">
         <div class="overlay"></div>
         <div class="container">
-            <div class="row d-md-flex no-gutters slider-text js-fullheight align-items-center justify-content-end" data-scrollax-parent="true">
-                <div class="one-third order-md-last img js-fullheight" style="background-image:url(/imgs/bg_1.jpg);">
-                    <h3 class="vr">Architecture Firm</h3>
+            <div class="row d-md-flex no-gutters slider-text js-fullheight align-items-center justify-content-end"
+                 data-scrollax-parent="true">
+                <div class="one-third order-md-last img js-fullheight" style="background-image:url(/imgs/desktop.jpg);">
+                    <h3 class="vr">Software Development Firm</h3>
                 </div>
-                <div class="one-forth d-flex js-fullheight align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
+                <div class="one-forth d-flex js-fullheight align-items-center ftco-animate"
+                     data-scrollax=" properties: { translateY: '70%' }">
                     <div class="text">
-                        <h1 class="mb-4">We Love <br>Modern Designs</h1>
-                        <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+                        <h1 class="mb-4">We Love <br>Software Development</h1>
+                        <p style="max-width: 300px">You can mass-produce hardware; you cannot mass-produce software; you cannot mass-produce the
+                            human mind.</ps>
+
+                        <small>— Michio Kaku</small>
                         <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">View our works</a></p>
                     </div>
                 </div>
@@ -72,14 +78,39 @@
     <div class="slider-item js-fullheight">
         <div class="overlay"></div>
         <div class="container">
-            <div class="row d-flex no-gutters slider-text js-fullheight align-items-center justify-content-end" data-scrollax-parent="true">
-                <div class="one-third order-md-last img js-fullheight" style="background-image:url0(/imgs/bg_2.jpg);">
-                    <h3 class="vr">Since - 2018</h3>
+            <div class="row d-flex no-gutters slider-text js-fullheight align-items-center justify-content-end"
+                 data-scrollax-parent="true">
+                <div class="one-third order-md-last img js-fullheight" style="background-image:url(/imgs/web.gif);">
+                    <h3 class="vr">Since - 2019</h3>
                 </div>
-                <div class="one-forth d-flex js-fullheight align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
+                <div class="one-forth d-flex js-fullheight align-items-center ftco-animate"
+                     data-scrollax=" properties: { translateY: '70%' }">
                     <div class="text">
-                        <h1 class="mb-4">We Create Amazing Architecture Designs</h1>
-                        <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+                        <h1 class="mb-4">We Create <br> Websites</h1>
+                        <p style="max-width: 300px">As a leading digital marketing agency, our in-house development team creates functional, fast
+                            loading, clean code & SEO friendly websites that are optimized for performance and usability
+                            with clean URLs.
+                            </p>
+                        <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">View our works</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="slider-item js-fullheight">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row d-flex no-gutters slider-text js-fullheight align-items-center justify-content-end"
+                 data-scrollax-parent="true">
+                <div class="one-third order-md-last img js-fullheight" style="background-image:url(/imgs/mobile.png);">
+                    <h3 class="vr">Since - 2019</h3>
+                </div>
+                <div class="one-forth d-flex js-fullheight align-items-center ftco-animate"
+                     data-scrollax=" properties: { translateY: '70%' }">
+                    <div class="text">
+                        <h1 class="mb-4">We Create <br> Amazing<br> Mobile Apps</h1>
+                        <p style="max-width: 300px">We help organizations innovate and build brilliant Mobile Applications (ios & Android) and
+                            brings ideas into reality</p>
                         <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">View our works</a></p>
                     </div>
                 </div>
@@ -91,18 +122,26 @@
 <section class="ftco-section ftc-no-pb">
     <div class="container">
         <div class="row no-gutters">
-            <div class="col-md-5 p-md-5 img img-2" style="background-image: url(/imgs/bg_3.jpg);">
+            <div class="col-md-5 p-md-5 img img-2" style="background-image: url(/imgs/desktop2.jpg);">
             </div>
             <div class="col-md-7 wrap-about pb-md-5 ftco-animate">
                 <div class="heading-section mb-5 pl-md-5">
                     <div class="pl-md-5 ml-md-5">
                         <span class="subheading subheading-with-line"><small class="pr-2 bg-white">About</small></span>
-                        <h2 class="mb-4">We are the best Interior, Exterior &amp; Architecture Firm</h2>
+                        <h2 class="mb-4">We are the best Software Development Firm</h2>
                     </div>
                 </div>
                 <div class="pl-md-5 ml-md-5 mb-5">
-                    <p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.</p>
-                    <p>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way.</p>
+                    <p>We are a boutique digital transformation consultancy and software development company that
+                        provides cutting edge engineering solutions, helping Fortune 500 companies and enterprise
+                        clients untangle complex issues that always emerge during their digital evolution journey. Since
+                        2018 we have been a visionary and a reliable software engineering partner for world-class
+                        brands.
+                    </p>
+
+                    <p>Trust our top minds to eliminate workflow pain points, implement new tech, and consolidate app
+
+                        portfolios.</p>
                     <p><a href="#" class="btn-custom">Learn More <span class="ion-ios-arrow-forward"></span></a></p>
                 </div>
             </div>
@@ -111,7 +150,8 @@
 </section>
 
 
-<section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(/imgs/bg_3.jpg);" data-stellar-background-ratio="0.5">
+<section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(/imgs/bg_3.jpg);"
+         data-stellar-background-ratio="0.5">
     <div class="container">
         <div class="row d-md-flex align-items-center justify-content-end">
             <div class="col-lg-10">
@@ -119,7 +159,7 @@
                     <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
                         <div class="block-18">
                             <div class="text">
-                                <strong class="number" data-number="18">0</strong>
+                                <strong class="number" data-number="1">0</strong>
                                 <span>Years of Experienced</span>
                             </div>
                         </div>
@@ -127,7 +167,7 @@
                     <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
                         <div class="block-18">
                             <div class="text">
-                                <strong class="number" data-number="351">0</strong>
+                                <strong class="number" data-number="2">0</strong>
                                 <span>Happy Clients</span>
                             </div>
                         </div>
@@ -135,7 +175,7 @@
                     <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
                         <div class="block-18">
                             <div class="text">
-                                <strong class="number" data-number="564">0</strong>
+                                <strong class="number" data-number="3">0</strong>
                                 <span>Finished Projects</span>
                             </div>
                         </div>
@@ -143,7 +183,7 @@
                     <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
                         <div class="block-18">
                             <div class="text">
-                                <strong class="number" data-number="300">0</strong>
+                                <strong class="number" data-number="30">0</strong>
                                 <span>Working Days</span>
                             </div>
                         </div>
@@ -162,7 +202,7 @@
             </div>
             <div class="col-md-8 pl-md-5 ftco-animate">
                 <div class="pl-md-4 border-line">
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
+                    <p>Your project will pass through 3 phases each phase has a different scope and target</p>
                 </div>
             </div>
         </div>
@@ -173,8 +213,9 @@
                         <span class="flaticon-idea"></span>
                     </div>
                     <div class="media-body p-2 mt-3">
-                        <h3 class="heading">Perfectly Design</h3>
-                        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                        <h3 class="heading">Project analysis</h3>
+                        <p>the process of studying a procedure or business in order to identify its goals and purposes
+                            and create systems and procedures that will achieve them in an efficient way".</p>
                     </div>
                 </div>
             </div>
@@ -184,8 +225,10 @@
                         <span class="flaticon-compass-symbol"></span>
                     </div>
                     <div class="media-body p-2 mt-3">
-                        <h3 class="heading">Carefully Planned</h3>
-                        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                        <h3 class="heading">Implementation</h3>
+                        <p>Defining how the information system should be built
+                            (i.e., physical system design), ensuring that the information system is operational and
+                            used, ensuring that the information system meets quality standard</p>
                     </div>
                 </div>
             </div>
@@ -195,8 +238,8 @@
                         <span class="flaticon-layers"></span>
                     </div>
                     <div class="media-body p-2 mt-3">
-                        <h3 class="heading">Smartly Execute</h3>
-                        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                        <h3 class="heading">Hosting</h3>
+                        <p>we will provide storage space and access for your websites.</p>
                     </div>
                 </div>
             </div>
@@ -204,7 +247,9 @@
         <div class="row justify-content-start mt-5 py-5">
             <div class="col-md-4 heading-section ftco-animate">
                 <h2 class="mb-4">Our Services</h2>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <p>From custom software development with the latest tech to automated quality assurance, you get all
+                    types of software development services to help you build, sustain, and modernise enterprise
+                    software</p>
             </div>
             <div class="col-md-8 ftco-animate">
                 <div class="row d-flex">
@@ -214,8 +259,10 @@
                                 <span class="flaticon-layers"></span>
                             </div>
                             <div class="media-body p-2 mt-3">
-                                <h3 class="heading">Design</h3>
-                                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                                <h3 class="heading">Enterprise Software Development</h3>
+                                <p>Enterprise Software Development
+                                    Create complex enterprise software, ensure reliable software integration, modernise
+                                    your legacy system.</p>
                             </div>
                         </div>
                     </div>
@@ -225,8 +272,9 @@
                                 <span class="flaticon-layers"></span>
                             </div>
                             <div class="media-body p-2 mt-3">
-                                <h3 class="heading">Industrial Design</h3>
-                                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                                <h3 class="heading">UX / UI Design</h3>
+                                <p> Build the product you need on time with an experienced team that uses a clear and
+                                    effective design process.</p>
                             </div>
                         </div>
                     </div>
@@ -236,8 +284,9 @@
                                 <span class="flaticon-layers"></span>
                             </div>
                             <div class="media-body p-2 mt-3">
-                                <h3 class="heading">Architecture Support</h3>
-                                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                                <h3 class="heading">Mobile App Development</h3>
+                                <p>Create an impactful mobile app that fits your brand and industry within a shorter
+                                    time frame.</p>
                             </div>
                         </div>
                     </div>
@@ -247,8 +296,8 @@
                                 <span class="flaticon-layers"></span>
                             </div>
                             <div class="media-body p-2 mt-3">
-                                <h3 class="heading">Renovation</h3>
-                                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                                <h3 class="heading">Dedicated Development Team</h3>
+                                <p> Hire a loyal software development team with niche skills and deep expertise.</p>
                             </div>
                         </div>
                     </div>
@@ -267,12 +316,12 @@
             </div>
             <div class="col-md-8 pl-md-5 heading-section ftco-animate">
                 <div class="pl-md-4 border-line">
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+                    <p>Developing a competitive advantage calls for developing more intelligent software solutions.</p>
                     <p class="category mt-5">
                         <span class="active mr-2"><a href="#">All Work</a></span>
-                        <span class="mr-2"><a href="#">Interior</a></span>
-                        <span class="mr-2"><a href="#">Exterior</a></span>
-                        <span class="mr-2"><a href="#">Landscape</a></span>
+                        <span class="mr-2"><a href="#">Mobile Apps</a></span>
+                        <span class="mr-2"><a href="#">Web Apps</a></span>
+                        <span class="mr-2"><a href="#">Desktop Apps</a></span>
                     </p>
                 </div>
             </div>
@@ -287,7 +336,8 @@
                         <span>Interior Design</span>
                         <h3><a href="project.html">Office Interior Design</a></h3>
                     </div>
-                    <a href="/imgs/work-1.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="/imgs/work-1.jpg"
+                       class="icon image-popup d-flex justify-content-center align-items-center">
                         <span class="icon-expand"></span>
                     </a>
                 </div>
@@ -299,7 +349,8 @@
                         <span>Interior Design</span>
                         <h3>Office Interior Design</h3>
                     </div>
-                    <a href="/imgs/work-2.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="/imgs/work-2.jpg"
+                       class="icon image-popup d-flex justify-content-center align-items-center">
                         <span class="icon-expand"></span>
                     </a>
                 </div>
@@ -311,7 +362,8 @@
                         <span>Interior Design</span>
                         <h3>Office Interior Design</h3>
                     </div>
-                    <a href="/imgs/work-3.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="/imgs/work-3.jpg"
+                       class="icon image-popup d-flex justify-content-center align-items-center">
                         <span class="icon-expand"></span>
                     </a>
                 </div>
@@ -323,7 +375,8 @@
                         <span>Interior Design</span>
                         <h3>Office Interior Design</h3>
                     </div>
-                    <a href="images/work-4.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="images/work-4.jpg"
+                       class="icon image-popup d-flex justify-content-center align-items-center">
                         <span class="icon-expand"></span>
                     </a>
                 </div>
@@ -335,7 +388,8 @@
                         <span>Landscape Design</span>
                         <h3>Office Interior Design</h3>
                     </div>
-                    <a href="images/work-5.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="images/work-5.jpg"
+                       class="icon image-popup d-flex justify-content-center align-items-center">
                         <span class="icon-expand"></span>
                     </a>
                 </div>
@@ -347,7 +401,8 @@
                         <span>Exterior Design</span>
                         <h3>Office Interior Design</h3>
                     </div>
-                    <a href="images/work-6.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="images/work-6.jpg"
+                       class="icon image-popup d-flex justify-content-center align-items-center">
                         <span class="icon-expand"></span>
                     </a>
                 </div>
@@ -359,7 +414,8 @@
                         <span>Exterior Design</span>
                         <h3>Office Interior Design</h3>
                     </div>
-                    <a href="images/work-7.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="images/work-7.jpg"
+                       class="icon image-popup d-flex justify-content-center align-items-center">
                         <span class="icon-expand"></span>
                     </a>
                 </div>
@@ -371,7 +427,8 @@
                         <span>Interior Design</span>
                         <h3>Office Interior Design</h3>
                     </div>
-                    <a href="images/work-8.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="images/work-8.jpg"
+                       class="icon image-popup d-flex justify-content-center align-items-center">
                         <span class="icon-expand"></span>
                     </a>
                 </div>
@@ -386,92 +443,15 @@
             <div class="col-md-7 heading-section ftco-animate">
                 <span class="subheading subheading-with-line"><small class="pr-2 bg-light">Testimony</small></span>
                 <h2 class="mb-4">Our satisfied customer says</h2>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
+                <p>Successful achievement of your company’s goals will require software solutions that are tailor made
+                    for your business needs. Intellectsoft was founded to help businesses imagine, plan, and develop
+                    these software solutions.</p>
             </div>
         </div>
         <div class="row ftco-animate">
             <div class="col-md-12">
                 <div class="carousel-testimony owl-carousel">
-                    <div class="item">
-                        <div class="testimony-wrap p-4 pb-5">
-                            <div class="user-img mb-5" style="background-image: url(/imgs/person_1.jpg)">
-                    <span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                            </div>
-                            <div class="text">
-                                <p class="mb-5 pl-4 line">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                                <div class="pl-5">
-                                    <p class="name">Garreth Smith</p>
-                                    <span class="position">CEO Founder of Commercial Building</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="testimony-wrap p-4 pb-5">
-                            <div class="user-img mb-5" style="background-image: url(/imgs/person_2.jpg)">
-                    <span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                            </div>
-                            <div class="text">
-                                <p class="mb-5 pl-4 line">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                                <div class="pl-5">
-                                    <p class="name">Garreth Smith</p>
-                                    <span class="position">CEO Founder of Interior Design</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="testimony-wrap p-4 pb-5">
-                            <div class="user-img mb-5" style="background-image: url(/imgs/person_3.jpg)">
-                    <span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                            </div>
-                            <div class="text">
-                                <p class="mb-5 pl-4 line">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                                <div class="pl-5">
-                                    <p class="name">Garreth Smith</p>
-                                    <span class="position">Exterior Designer</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="testimony-wrap p-4 pb-5">
-                            <div class="user-img mb-5" style="background-image: url(/imgs/person_1.jpg)">
-                    <span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                            </div>
-                            <div class="text">
-                                <p class="mb-5 pl-4 line">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                                <div class="pl-5">
-                                    <p class="name">Garreth Smith</p>
-                                    <span class="position">Landscape Designer</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="testimony-wrap p-4 pb-5">
-                            <div class="user-img mb-5" style="background-image: url(/imgs/person_1.jpg)">
-                    <span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                            </div>
-                            <div class="text">
-                                <p class="mb-5 pl-4 line">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                                <div class="pl-5">
-                                    <p class="name">Garreth Smith</p>
-                                    <span class="position">System Analyst</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+
                 </div>
             </div>
         </div>
@@ -483,8 +463,10 @@
         <div class="row justify-content-center mb-5 pb-3">
             <div class="col-md-7 heading-section ftco-animate">
                 <span class="subheading subheading-with-line"><small class="pr-2 bg-white">Expert Team</small></span>
-                <h2 class="mb-4">Our Architect Team</h2>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
+                <h2 class="mb-4">Our Development Team</h2>
+                <p>Cannot hire the right local tech talent on time? Unhappy with high attrition rate on your in-house
+                    team? Scale your delivery capacity with Team Extension. Over the past decade, our customers
+                    succeeded by leveraging Intellectsoft’s process of building, motivating, and managing.</p>
             </div>
         </div>
         <div class="row">
@@ -492,62 +474,8 @@
                 <div class="staff">
                     <div class="img" style="background-image: url(/imgs/team-1.jpg);"></div>
                     <div class="text px-4 pt-4">
-                        <h3>John Wilson</h3>
+                        <h3>Muhammad Saleh</h3>
                         <span class="position mb-2">Co-Founder / CEO</span>
-                        <div class="faded">
-                            <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-                            <ul class="ftco-social d-flex">
-                                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3 ftco-animate">
-                <div class="staff">
-                    <div class="img" style="background-image: url(/imgs/team-2.jpg);"></div>
-                    <div class="text px-4 pt-4">
-                        <h3>David Smith</h3>
-                        <span class="position mb-2">Achitect</span>
-                        <div class="faded">
-                            <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-                            <ul class="ftco-social d-flex">
-                                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3 ftco-animate">
-                <div class="staff">
-                    <div class="img" style="background-image: url(/imgs/team-3.jpg);"></div>
-                    <div class="text px-4 pt-4">
-                        <h3>David Smith</h3>
-                        <span class="position mb-2">Achitect</span>
-                        <div class="faded">
-                            <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-                            <ul class="ftco-social d-flex">
-                                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-                                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3 ftco-animate">
-                <div class="staff">
-                    <div class="img" style="background-image: url(/imgs/team-4.jpg);"></div>
-                    <div class="text px-4 pt-4">
-                        <h3>David Smith</h3>
-                        <span class="position mb-2">Achitect</span>
                         <div class="faded">
                             <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
                             <ul class="ftco-social d-flex">
@@ -573,7 +501,8 @@
             </div>
             <div class="col-md-8 pl-md-5 heading-section ftco-animate">
                 <div class="pl-md-4 border-line">
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there
+                        live the blind texts.</p>
                 </div>
             </div>
         </div>
@@ -589,7 +518,8 @@
                             <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                         </div>
                         <div class="desc pl-3">
-                            <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                            <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the
+                                    blind texts</a></h3>
                         </div>
                     </div>
                 </div>
@@ -605,7 +535,8 @@
                             <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                         </div>
                         <div class="desc pl-3">
-                            <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                            <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the
+                                    blind texts</a></h3>
                         </div>
                     </div>
                 </div>
@@ -621,7 +552,8 @@
                             <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                         </div>
                         <div class="desc pl-3">
-                            <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                            <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the
+                                    blind texts</a></h3>
                         </div>
                     </div>
                 </div>
@@ -639,7 +571,8 @@
             </div>
             <div class="col-md-8 pl-md-5 heading-section ftco-animate">
                 <div class="pl-md-4 border-line">
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there
+                        live the blind texts.</p>
                 </div>
             </div>
         </div>
@@ -693,7 +626,8 @@
             <div class="col-md">
                 <div class="ftco-footer-widget mb-4">
                     <h2 class="ftco-heading-2">Mosaic</h2>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there
+                        live the blind texts.</p>
                     <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
                         <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                         <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -741,8 +675,11 @@
         <div class="row">
             <div class="col-md-12 text-center">
 
-                <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                <p style="display: none">
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    Copyright &copy;<script>document.write(new Date().getFullYear());</script>
+                    All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a
+                            href="https://colorlib.com" target="_blank">Colorlib</a>
                     <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
             </div>
         </div>
@@ -750,9 +687,14 @@
 </footer>
 
 
-
 <!-- loader -->
-<div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+<div id="ftco-loader" class="show fullscreen">
+    <svg class="circular" width="48px" height="48px">
+        <circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/>
+        <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10"
+                stroke="#F96D00"/>
+    </svg>
+</div>
 
 
 <script src="/js/jquery.min.js"></script>
