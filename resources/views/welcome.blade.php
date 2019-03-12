@@ -30,7 +30,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
-        <a class="navbar-brand" href="index.html">Seven L.</a>
+        <a class="navbar-brand" href="/">Seven L.</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
                 aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="oi oi-menu"></span> Menu
@@ -38,13 +38,13 @@
 
         <div class="collapse navbar-collapse" id="ftco-nav">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
-                <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-                <li class="nav-item"><a href="project.html" class="nav-link">Project</a></li>
-                <li class="nav-item"><a href="services.html" class="nav-link">Services</a></li>
-                <li class="nav-item"><a href="team.html" class="nav-link">Team</a></li>
-                <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
-                <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+                <li class="nav-item active"><a href="#" class="nav-link">Home</a></li>
+                <li class="nav-item"><a href="/about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="/project" class="nav-link">Project</a></li>
+                <li class="nav-item"><a href="/services" class="nav-link">Services</a></li>
+                <li class="nav-item"><a href="/team" class="nav-link">Team</a></li>
+                <li class="nav-item"><a href="/blog" class="nav-link">Blog</a></li>
+                <li class="nav-item"><a href="/contact" class="nav-link">Contact</a></li>
             </ul>
         </div>
     </div>
@@ -64,10 +64,11 @@
                      data-scrollax=" properties: { translateY: '70%' }">
                     <div class="text">
                         <h1 class="mb-4">We Love <br>Software Development</h1>
-                        <p style="max-width: 300px">You can mass-produce hardware; you cannot mass-produce software; you cannot mass-produce the
+                        <p style="max-width: 300px">You can mass-produce hardware; you cannot mass-produce software; you
+                            cannot mass-produce the
                             human mind.</ps>
 
-                        <small>— Michio Kaku</small>
+                            <small>— Michio Kaku</small>
                         <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">View our works</a></p>
                     </div>
                 </div>
@@ -87,10 +88,11 @@
                      data-scrollax=" properties: { translateY: '70%' }">
                     <div class="text">
                         <h1 class="mb-4">We Create <br> Websites</h1>
-                        <p style="max-width: 300px">As a leading digital marketing agency, our in-house development team creates functional, fast
+                        <p style="max-width: 300px">As a leading digital marketing agency, our in-house development team
+                            creates functional, fast
                             loading, clean code & SEO friendly websites that are optimized for performance and usability
                             with clean URLs.
-                            </p>
+                        </p>
                         <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">View our works</a></p>
                     </div>
                 </div>
@@ -109,7 +111,8 @@
                      data-scrollax=" properties: { translateY: '70%' }">
                     <div class="text">
                         <h1 class="mb-4">We Create <br> Amazing<br> Mobile Apps</h1>
-                        <p style="max-width: 300px">We help organizations innovate and build brilliant Mobile Applications (ios & Android) and
+                        <p style="max-width: 300px">We help organizations innovate and build brilliant Mobile
+                            Applications (ios & Android) and
                             brings ideas into reality</p>
                         <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">View our works</a></p>
                     </div>
