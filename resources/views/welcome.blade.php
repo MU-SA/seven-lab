@@ -24,9 +24,13 @@
 
     <link rel="stylesheet" href="/css/flaticon.css">
     <link rel="stylesheet" href="/css/icomoon.css">
+    <link rel="stylesheet" href="/css/heros.css">
     <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
+
+
+
 
 <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
@@ -51,22 +55,26 @@
 </nav>
 <!-- END nav -->
 
-<section class="home-slider js-fullheight owl-carousel bg-white">
+
+
+
+
+<section class="home-slider js-fullheight hero-contact owl-carousel">
     <div class="slider-item js-fullheight">
         <div class="overlay"></div>
         <div class="container">
             <div class="row d-md-flex no-gutters slider-text js-fullheight align-items-center justify-content-end"
                  data-scrollax-parent="true">
-                <div class="one-third order-md-last img js-fullheight" style="background-image:url(/imgs/desktop.jpg);">
+                <div class="one-third order-md-last img js-fullheight">
                     <h3 class="vr">Software Development Firm</h3>
                 </div>
                 <div class="one-forth d-flex js-fullheight align-items-center ftco-animate"
                      data-scrollax=" properties: { translateY: '70%' }">
-                    <div class="text">
-                        <h1 class="mb-4">We Love <br>Software Development</h1>
-                        <p style="max-width: 300px">You can mass-produce hardware; you cannot mass-produce software; you
+                    <div class="text-white">
+                        <h1 class="mb-4 text-white">We Love Software Development</h1>
+                        <p>You can mass-produce hardware; you cannot mass-produce software; you
                             cannot mass-produce the
-                            human mind.</ps>
+                            human mind.</p>
 
                             <small>— Michio Kaku</small>
                         <p><a href="#works" class="btn btn-primary px-4 py-3 mt-3">View our works</a></p>
@@ -81,14 +89,14 @@
         <div class="container">
             <div class="row d-flex no-gutters slider-text js-fullheight align-items-center justify-content-end"
                  data-scrollax-parent="true">
-                <div class="one-third order-md-last img js-fullheight" style="background-image:url(/imgs/web.gif);">
+                <div class="one-third order-md-last img js-fullheight" >
                     <h3 class="vr">Since - 2019</h3>
                 </div>
                 <div class="one-forth d-flex js-fullheight align-items-center ftco-animate"
                      data-scrollax=" properties: { translateY: '70%' }">
-                    <div class="text">
-                        <h1 class="mb-4">We Create <br> Websites</h1>
-                        <p style="max-width: 300px">As a leading digital marketing agency, our in-house development team
+                    <div class="text-white">
+                        <h1 class="mb-4 text-white">We Create Websites</h1>
+                        <p >As a leading digital marketing agency, our in-house development team
                             creates functional, fast
                             loading, clean code & SEO friendly websites that are optimized for performance and usability
                             with clean URLs.
@@ -104,14 +112,14 @@
         <div class="container">
             <div class="row d-flex no-gutters slider-text js-fullheight align-items-center justify-content-end"
                  data-scrollax-parent="true">
-                <div class="one-third order-md-last img js-fullheight" style="background-image:url(/imgs/mobile.png);">
+                <div class="one-third order-md-last img js-fullheight">
                     <h3 class="vr">Since - 2019</h3>
                 </div>
                 <div class="one-forth d-flex js-fullheight align-items-center ftco-animate"
                      data-scrollax=" properties: { translateY: '70%' }">
-                    <div class="text">
-                        <h1 class="mb-4">We Create <br> Amazing<br> Mobile Apps</h1>
-                        <p style="max-width: 300px">We help organizations innovate and build brilliant Mobile
+                    <div class="text-white">
+                        <h1 class="mb-4 text-white">We Create Amazing Mobile Apps</h1>
+                        <p>We help organizations innovate and build brilliant Mobile
                             Applications (ios & Android) and
                             brings ideas into reality</p>
                         <p><a href="#works" class="btn btn-primary px-4 py-3 mt-3">View our works</a></p>
