@@ -69,7 +69,7 @@
                             human mind.</ps>
 
                             <small>— Michio Kaku</small>
-                        <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">View our works</a></p>
+                        <p><a href="#works" class="btn btn-primary px-4 py-3 mt-3">View our works</a></p>
                     </div>
                 </div>
             </div>
@@ -93,7 +93,7 @@
                             loading, clean code & SEO friendly websites that are optimized for performance and usability
                             with clean URLs.
                         </p>
-                        <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">View our works</a></p>
+                        <p><a href="#works" class="btn btn-primary px-4 py-3 mt-3">View our works</a></p>
                     </div>
                 </div>
             </div>
@@ -114,7 +114,7 @@
                         <p style="max-width: 300px">We help organizations innovate and build brilliant Mobile
                             Applications (ios & Android) and
                             brings ideas into reality</p>
-                        <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">View our works</a></p>
+                        <p><a href="#works" class="btn btn-primary px-4 py-3 mt-3">View our works</a></p>
                     </div>
                 </div>
             </div>
@@ -122,7 +122,7 @@
     </div>
 </section>
 
-<section class="ftco-section ftc-no-pb">
+<section class="ftco-section ftc-no-pb" id="works">
     <div class="container">
         <div class="row no-gutters">
             <div class="col-md-5 p-md-5 img img-2" style="background-image: url(/imgs/desktop2.jpg);">
